@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.edf
+*.xdf
+recordings/
+data/
+mne_data/
+research/TNT_attendance.xlsx
+*SOLUTIONS*.ipynb
