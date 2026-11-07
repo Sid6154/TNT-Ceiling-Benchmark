@@ -6,6 +6,6 @@ Research question: how well can affordable EEG decode motor imagery, P300 and SS
 - research/  papers, headset comparison, learning videos, first-day plan
 
 Online docs:
-- Paper summaries (Google Doc "eeg neurotech project"): https://docs.google.com/document/d/1oQGVDfLKkWCu8VahxGrwcmmjnkOI3KMUsRjKYMScy_I/edit
+- Paper summaries (Google Doc "eeg neurotech project"): https://docs.google.com/document/d/1oQGVDfLKkWCu8VahxGrwcmmjnkOI3KMUsRjKYMScy_I/edit?usp=sharing
 - Headset comparison (Claude doc): https://claude.ai/artifact/XWoGZn1ega7bqdXB6PsgDw
 # TNT-Ceiling-Benchmark
