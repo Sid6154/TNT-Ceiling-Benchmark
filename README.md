@@ -10,3 +10,4 @@ Start here:
 - Headset comparison: [research/headsets.md](research/headsets.md)
 - Meeting plans: [research/meetings/](research/meetings/)
 - Setup: [code/SETUP.md](code/SETUP.md)
+- Electrode map (10-20 system, colored by what we use): [research/electrode_map.png](research/electrode_map.png)
