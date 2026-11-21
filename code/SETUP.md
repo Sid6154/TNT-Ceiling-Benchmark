@@ -3,7 +3,7 @@
     cd ~/Documents/"TNT Ceiling Benchmark"/code
     python3 -m venv .venv
     source .venv/bin/activate
-    pip install moabb pyriemann scikit-learn matplotlib scipy ipykernel braindecode brainflow pandas
+    pip install moabb pyriemann scikit-learn matplotlib scipy ipykernel braindecode brainflow pandas pyserial
 
 Open the folder in VS Code, open a notebook, choose the .venv kernel.
 
@@ -13,6 +13,7 @@ Open the folder in VS Code, open a notebook, choose the .venv kernel.
 - practice_eyes_open_closed.ipynb    practice: eyes open vs closed with LDA, Riemannian and EEGNet
 - practice_eyes_SOLUTIONS.ipynb      answers
 - neuropawn_record.py                records the NeuroPawn Knight Board with BrainFlow and saves a CSV
+- after_neuropawn/                   live viewer + recorder written once the board arrived (see its README)
 
 ## Recording with the NeuroPawn Knight Board (Mac)
 Before the headset arrives, practice with BrainFlow's synthetic board (fake data):
